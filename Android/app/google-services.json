@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "994648451438",
+    "project_id": "notes-module-2b4fc",
+    "storage_bucket": "notes-module-2b4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994648451438:android:9190b7c5df078a03f8b97f",
+        "android_client_info": {
+          "package_name": "dmujanovic.notemodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994648451438-d165outci4v815uq02n0bacso9l03c45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuRIL4VnH5Dltv6xW_bxdROT9hPK7tZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994648451438-d165outci4v815uq02n0bacso9l03c45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994648451438:android:6c15c61d76a7bd6ff8b97f",
+        "android_client_info": {
+          "package_name": "hr.foi.air.notesmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994648451438-d165outci4v815uq02n0bacso9l03c45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuRIL4VnH5Dltv6xW_bxdROT9hPK7tZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994648451438-d165outci4v815uq02n0bacso9l03c45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
