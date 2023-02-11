@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddNotes"
+    android:background="#5E6973"
+    >
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_note_title"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="26dp"
+        />
+
+    <EditText
+        android:id="@+id/etNoteTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:hint="@string/edit_text_note_title_hint"/>
+
+    <TextView
+        android:layout_marginTop="105dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_note_description"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="26sp"
+        />
+
+    <EditText
+        android:id="@+id/etNoteDescription"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_marginTop="155dp"
+        android:hint="@string/edit_text_note_description_hint"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAddNotes"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="280dp"
+        android:layout_marginTop="520dp"
+        android:text="@string/btn_add_note_text"
+        android:background="#BDFFFD"
+        />
+
+</FrameLayout>

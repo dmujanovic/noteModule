@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Note Module</string>
+    <string name="app_name">NotesModule</string>
+    <string name="display_notes_string">Display notes fragment</string>
+    <string name="add_notes_string">Add notes fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note_title">Note title:</string>
+    <string name="edit_text_note_title_hint">Insert note title here</string>
+    <string name="add_note_description">Note description:</string>
+    <string name="edit_text_note_description_hint">Insert note description here</string>
+    <string name="btn_add_note_text">Add note</string>
 </resources>
