@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Note Module"
 include ':app'
+include ':Core'
+include ':listdisplay_module'
