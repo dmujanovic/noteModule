@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".DisplayNotes"
-    android:background="#5E6973">
+    android:background="#5E6973"
+    android:orientation="vertical">
 
 
     <Spinner
@@ -23,6 +24,7 @@
         android:id="@+id/fragmentContainerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
         />
 
 </FrameLayout>
