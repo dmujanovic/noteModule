@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import dmujanovic.core.NoteDisplayer
 import dmujanovic.core.NoteModel
 
-class ListEventDisplayer: NoteDisplayer() {
+class ListNoteDisplayer: NoteDisplayer() {
 
     override fun getName() = "List"
     val fragment = ListNoteFragment()
