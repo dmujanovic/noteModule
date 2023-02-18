@@ -1,0 +1,6 @@
+package dmujanovic.core
+
+data class NoteModel(
+    val Title : String? = null,
+    val Description : String? = null
+)
